@@ -64,7 +64,13 @@ Open the local URL shown in your terminal.
 
 ## 📸 Screenshots
 
-Coming soon.
+### Game Screen
+
+![Tenzies Game](public/tenzies-game.png)
+
+### Winning Screen
+
+![Tenzies Win](public/tenzies-win.png)
 
 ## 🌐 Live Demo
 
