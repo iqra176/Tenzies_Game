@@ -74,7 +74,7 @@ Open the local URL shown in your terminal.
 
 ## 🌐 Live Demo
 
-Coming soon.
+[🎲 Play Tenzies Game](https://tenzies-game-gilt-nine.vercel.app/)
 
 ## 👩‍💻 Author
 
